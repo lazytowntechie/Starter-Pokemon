@@ -1,0 +1,30 @@
+@font-face{
+	font-family: pokemon;
+	src: url("jackster-productions_pokemon-gb/Pokemon GB.ttf");
+}
+
+body{
+	background: url('Images/kanto_map.png');
+	text-shadow: 2px 2px #D13E24;
+	font-family: pokemon;
+	text-align: center;
+	font-size: 1.5rem;
+	position: relative;
+}
+
+img{
+	padding: 10px;
+}
+
+img:hover {
+	transform: scale(1.4);
+	transform: all 1s;
+}
+
+.container{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	min-height: 400px;
+}
