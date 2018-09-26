@@ -6,7 +6,7 @@ var score = 0;
 var playerChoice;
 
 
-var readable = {
+var catchEm = {
 	'0': 'Charizard',
 	'1': 'Blastoise',
 	'2': 'Venusaur',
@@ -15,7 +15,7 @@ var readable = {
 var computerChoice = {
 	init: function(){
 		this.store = Math.floor(Math.random() * 3);
-		this.text = readable[this.store];
+		this.text = catchEm[this.store];
 	},
 	store: '',
 	text: '',
