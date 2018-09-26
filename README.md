@@ -1,3 +1,4 @@
 # Starter-Pokemon
-The player chooses a Pokemon and the computer chooses one too made with JavaScript mostly. This game is just Rock, Paper Scissor just with pokemon.
-assets/images/Venusaur.png
+![](assets/images/Venusaur.png) ![](assets/images/Charizard.png) ![](assets/images/Blastoise.png)<br />
+A rock, paper, scissors style pokemon game that allows to the player to fight against the computer to win!
+![](assets/images/screenshot1.png)
