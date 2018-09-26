@@ -1,6 +1,15 @@
 # Starter-Pokemon
-![](assets/images/Venusaur.png) ![](assets/images/Charizard.png) ![](assets/images/Blastoise.png)![](assets/images/screenshot1.png)
+![](assets/images/Venusaur.png) 
+![](assets/images/Charizard.png)
+![](assets/images/Blastoise.png)
+![](assets/images/screenshot1.png)
+A rock, paper, scissors style pokemon game that allows to the player to fight against the computer to win!
 
-<p align="center">A rock, paper, scissors style pokemon game that allows to the player to fight against the computer to win!</p></br>
+DRAW!
 ![](assets/images/screenshot2.png)
-<p align="center">DRAW!</p>
+
+WIN!
+![](assets/images/screenshot3.png)
+
+LOSE!
+![](assets/images/screenshot4.png)
